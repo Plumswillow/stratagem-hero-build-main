@@ -11,7 +11,7 @@ The website from which this game originated stores all SVGs and JS dependencies 
 Disclaimer
 
 Please proceed with caution and understand that this build may not function as expected without the necessary dependencies. Feel free to reach out for assistance or updates on the progress of resolving these issues.
-
+Though the installer says you can change the destination of the install it is not recommended to do so as it will break the game and the icons for stratagems will not show up. However, if you would like to you can copy the following folders into the C: Drive _next, assets and icons. Doing so will hopefully fix the issues.
 
 Thank you for your understanding and support!
 If anyone finds the original creator of the website please let me know and I will provide proper credit. Please remember I didn't not make the original website nor do I take credit for it.
