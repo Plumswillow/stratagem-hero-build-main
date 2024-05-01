@@ -1,0 +1,27 @@
+{
+    "name": "stratagem-hero-desktop",
+    "version": "1.0.0",
+    "description": "Desktop port of the Web game Stratagem Hero.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Plumswillow",
+    "license": "MIT",
+    "dependencies": {
+        "electron": "^14.0.0"
+    },
+    "devDependencies": {
+        "@electron/packager": "^18.3.2"
+    },
+    "build": {
+        "appId": "your.app.id",
+        "directories": {
+            "output": "dist"
+        },
+        "win": {
+            "target": "portable",
+            "icon": "favicon.ico"
+        }
+    }
+}
